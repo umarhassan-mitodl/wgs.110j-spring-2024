@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 5bd52d1c-0986-42ad-89ab-bb360180fc45
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: edc83ba5-842c-42fd-9377-858232134dad
+  name: Readings and Films
+  pageRef: /pages/readings
+  weight: 20
+- identifier: b9875dd2-ab21-4e44-a477-a3dc61c1e054
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 1c7d4762-646f-4666-9f87-f6b90963acda
+  name: Readings and Films Guides
+  pageRef: /lists/readings-and-films-guides
+  parent: edc83ba5-842c-42fd-9377-858232134dad
+  weight: 10
+- identifier: 0b3a8970-be23-4497-adee-a6bab599bfa7
+  name: Response Papers
+  pageRef: /pages/response-papers
+  parent: b9875dd2-ab21-4e44-a477-a3dc61c1e054
+  weight: 10
+- identifier: 92bb9431-4a77-4cac-a728-dff7f67f2711
+  name: Discussion Forum Moderation
+  pageRef: /pages/discussion-forum-moderation
+  parent: b9875dd2-ab21-4e44-a477-a3dc61c1e054
+  weight: 20
+- identifier: 86dff3fd-7925-4ba9-b7a1-ac17234cad8e
+  name: Short Paper
+  pageRef: /pages/short-paper
+  parent: b9875dd2-ab21-4e44-a477-a3dc61c1e054
+  weight: 30
