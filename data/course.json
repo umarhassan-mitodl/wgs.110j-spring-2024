@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "377502d0-d3f2-7831-7c2e-e01305599409"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4c652a53-9f31-401f-887c-babcc018996b",
+    "website": "sexual-and-gender-identities-in-the-modern-united-states"
+  },
+  "course_title": "Sexual and Gender Identities in the Modern United States",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course provides an introduction to the history of gender, sex, and sexuality in the modern United States, from the end of the 19th century to the present. It surveys historical approaches to the field, emphasizing the changing nature of sexual and gender identities over time. It traces attempts to control, construct, and contain sexual and gender identities. In addition, it also examines the efforts of those who worked to resist, reject, and reform institutionalized heterosexuality and mainstream configurations of gendered power.",
+  "department_numbers": [
+    "WGS",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.108J",
+  "primary_course_number": "WGS.110J",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Readings",
+    "Activity Assignments"
+  ],
+  "site_uid": "d314e363-5ed2-4379-99e9-2b22dc999c93",
+  "site_short_id": "wgs.110j-spring-2024",
+  "site_url_path": "courses/wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024"
+}
