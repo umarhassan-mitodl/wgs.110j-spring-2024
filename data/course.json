@@ -30,7 +30,7 @@
     "website": "sexual-and-gender-identities-in-the-modern-united-states"
   },
   "course_title": "Sexual and Gender Identities in the Modern United States",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "This course provides an introduction to the history of gender, sex, and sexuality in the modern United States, from the end of the 19th century to the present. It surveys historical approaches to the field, emphasizing the changing nature of sexual and gender identities over time. It traces attempts to control, construct, and contain sexual and gender identities. In addition, it also examines the efforts of those who worked to resist, reject, and reform institutionalized heterosexuality and mainstream configurations of gendered power.",
   "department_numbers": [
@@ -39,6 +39,7 @@
   ],
   "extra_course_numbers": "21H.108J",
   "primary_course_number": "WGS.110J",
+  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments",
     "Readings",
